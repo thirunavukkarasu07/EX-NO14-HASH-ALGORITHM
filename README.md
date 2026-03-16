@@ -68,7 +68,7 @@ return 0;
 
 ## Output:
 
-
+![alt text](<Screenshot 2026-03-16 102838.png>)
 
 ## Result:
 The program is executed successfully.
